@@ -8,6 +8,9 @@ I document my process to refine my offensive security skills and contribute back
 
 ---
 
+> [!TIP]
+> **For a better visual experience and easier navigation, visit the live site:**
+> ### 🌐 [firasec-labs.github.io](https://firasnaimi1.github.io/security-writeups/)
 ## 🧭 Navigation
 
 ### 🕸️ [Web Application Security](./web_security/)
