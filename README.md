@@ -8,20 +8,16 @@ I document my process to refine my offensive security skills and contribute back
 
 ---
 
-## 🔬 Research & Findings
+## 🧭 Navigation
 
-### 🕸️ Web Application Security (Bug Bounty)
+### 🕸️ [Web Application Security](./web_security/)
 *Detailed analysis of vulnerabilities and recon strategies for Intigriti and VDP programs.*
 
-| Date | Topic / Vulnerability | Source | Impact | Report |
-| :--- | :--- | :--- | :--- | :--- |
-| | | | | |
+### 🕹️ [Lab Retirements](./labs/)
+*Technical breakdowns of machines from **HackMyVM** and **TryHackMe**.*
 
-### 🕹️ Lab Retirements (Walkthroughs)
-*Technical breakdowns of machines from HackMyVM, TryHackMe, and custom lab environments.*
-
-* **[HackMyVM]** - *Pending updates*
-* **[TryHackMe]** - *Pending updates*
+### 🗝️ [The Vault](./vault/)
+*Curated intelligence including **[Cheat Sheets](./vault/cheatsheets/)** and **[Resources](./vault/resources/)**.*
 
 ---
 
@@ -29,8 +25,8 @@ I document my process to refine my offensive security skills and contribute back
 
 In my research, I prioritize manual testing supplemented by custom automation:
 * **Analysis:** `Burp Suite`, `Caido`
-* **Fuzzing:** `ffuf`, `Nuclei` (Custom Templates) ...
-* **Recon:** `Subfinder`, `Amass`, `Httpx` ...
+* **Fuzzing:** `ffuf`, `Nuclei` (Custom Templates)
+* **Recon:** `Subfinder`, `Amass`, `Httpx`
 * **Programming:** `C++`, `Bash` (Workflow automation)
 
 ---
