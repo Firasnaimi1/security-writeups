@@ -1,0 +1,8 @@
+remote_theme: pages-themes/hacker@v0.2.0
+
+# Site Information
+title: Security Research & Vulnerability Write-ups
+description: Official repository for Firas Naimi's security research and CTF walkthroughs.
+
+# Optional: show download links for your repo
+show_downloads: true
