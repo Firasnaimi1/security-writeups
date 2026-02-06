@@ -7,6 +7,7 @@ A collection of walkthroughs for machines hosted on [HackMyVm](https://hackmyvm.
 | Machine | Writeup Link |
 | :--- | :--- |
 | **Gameshell** | [Read Walkthrough](./gameshell/gameshell-writeup.md) |
+| **Thirteen** | [Read Walkthrough](./gameshell/thirteen-writeup) |
 
 ---
 [⬅ Back to Labs](../)
