@@ -10,7 +10,7 @@ This directory serves as my centralized knowledge base. It contains a curated co
 Practical, copy-paste ready command-line references for rapid enumeration and exploitation.
 * **Focus:** Nmap, Linux/Windows Privilege Escalation, Reverse Shells, and SQLi....
 
-### 📚 [Resources](./resources/)
+### 📚 [Resources](./Resources/)
 A curated library of external documentation, methodology blogs, and toolkits that define the modern offensive security landscape.
 * **Focus:** PortSwigger Academy, HackTricks, GTFOBins, and GitHub Repositories.
 
