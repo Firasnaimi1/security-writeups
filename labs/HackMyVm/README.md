@@ -4,4 +4,9 @@ A collection of walkthroughs for machines hosted on [HackMyVm](https://hackmyvm.
 
 ### 🚩 Writeups
 
+| Machine | Writeup Link |
+| :--- | :--- |
+| **Gameshell** | [Read Walkthrough](./gameshell/gameshell-writeup.md) |
+
+---
 [⬅ Back to Labs](../)
